@@ -9,4 +9,8 @@ Obs: Basta descomentar o código de cada erro para visualizá-lo.
 
 1. Presumir que valores-padrão dos argumentos são imutáveis;
 2. Esquecimento da inicialização de propriedades das classes filhas;
-3. 
+3. Escrita de lista de Exceptions incorretamente;
+4. Erro de reconhecimento de escopo;
+5. Modificar uma lista enquanto iteramos ela;
+6. Atribuição de valor numa closure;
+7. criação de referências circulares.
