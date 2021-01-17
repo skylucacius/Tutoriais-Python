@@ -1,14 +1,18 @@
-# Python Web Scraping Com Selenium
+# Tutoriais de Web Scraping
+
+## Python: Web Scraping Com Selenium #1
 
 baseado no tutorial disponível em: https://www.scrapingbee.com/blog/selenium-python/
 
-É feito um Scrape com a biblioteca Selenium. É usado o seguinte:
+É feito um Scrape de um website simples com a biblioteca Selenium num headless browser baseado no Google Chrome. Para isso, é necessário usar o ChromeWebDriver. Neste tutorial, ele será inserido neste diretório, junto com os scripts python num sistema Windows 10.
 
-Requests (for making HTTP requests)
-URLLib3 (URL handling)
-Beautiful Soup (in case Selenium couldn’t handle everything)
-Selenium (for browser-based navigation)
+Todos esses componentes estarão disponíveis no ambiente virtual criado. Para instalar as dependências mencionadas acima, basta dar um "pip install -r requisitos.txt" neste diretório. Com este tutorial, foram implementados 3 scripts python, cujos nomes são iniciados por "selenium".
 
-Para usar com o Chrome, é necessário usar o ChromeWebDriver. Neste tutorial, ele será inserido neste diretório, junto com os scripts python num sistema Windows 10.
+Em seguinte, foi realizado outro tutorial.
 
-Todos esses componentes estarão disponíveis no ambiente virtual criado. Para instalar as dependências mencionadas acima, basta dar um "pip install -r requisitos.txt" neste diretório.
+___
+
+## Python: Web Scraping Com Selenium #2
+
+baseado no tutorial disponível em: https://www.toptal.com/python/web-scraping-with-python
+
