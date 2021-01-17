@@ -9,7 +9,6 @@ URLLib3 (URL handling)
 Beautiful Soup (in case Selenium couldn’t handle everything)
 Selenium (for browser-based navigation)
 
-Para usar com o Chrome, é necessário usar o ChromeWebDriver.
+Para usar com o Chrome, é necessário usar o ChromeWebDriver. Neste tutorial, ele será inserido neste diretório, junto com os scripts python num sistema Windows 10.
 
-Todos esses componentes estarão disponíveis no ambiente virtual criado. Para instalar as dependências do tutorial, basta dar um "pip install -r requisitos.txt".
-
+Todos esses componentes estarão disponíveis no ambiente virtual criado. Para instalar as dependências mencionadas acima, basta dar um "pip install -r requisitos.txt" neste diretório.
