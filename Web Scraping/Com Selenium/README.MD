@@ -14,5 +14,6 @@ ___
 
 ## Python: Web Scraping Com Selenium #2
 
-baseado no tutorial disponível em: https://www.toptal.com/python/web-scraping-with-python
+baseado no tutorial disponível em: 
+https://www.analyticsvidhya.com/blog/2020/08/web-scraping-selenium-with-python/
 
