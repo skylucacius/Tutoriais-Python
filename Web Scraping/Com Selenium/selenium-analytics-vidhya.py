@@ -10,4 +10,5 @@ driver.get(search_url.format(q='Car'))
 #Scroll to the end of the page
 driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 time.sleep(5)#sleep_between_interactions
-
+imgResults = driver.find_elements_by_xpath("//img[contains(@class,'Q4LuWd')]")
+totalResults=len(imgResults)
