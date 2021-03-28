@@ -7,3 +7,5 @@ Web Scraping
 > Abra a pasta do projeto (tutoriais-python) pelo Visual Studio Code ;
 
 > Instale o scrapy através do terminal: conda install -c conda-forge scrapy
+
+Mudança de teste.
