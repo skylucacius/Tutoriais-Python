@@ -8,4 +8,4 @@ Web Scraping
 
 > Instale o scrapy através do terminal: conda install -c conda-forge scrapy
 
-Mudança de teste.
+Cada pasta contém um projeto diferente
