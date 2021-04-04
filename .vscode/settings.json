@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "c:\\Users\\familia\\Desktop\\backup BRONE\\TI\\Python\\VS Code - Python Environment\\ambiente\\Scripts\\python.exe"
+    "python.pythonPath": "c:\\Users\\familia\\Desktop\\backup BRONE\\TI\\Python\\VS Code - Python Environment\\ambiente\\Scripts\\python.exe",
+    "python.formatting.provider": "autopep8"
 }
