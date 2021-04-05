@@ -4,7 +4,7 @@ class MLSpider(scrapy.Spider):
     name = 'ml'
     start_urls = ["https://www.mercadolivre.com.br/ofertas?page={i}"]
 
-    def parse(self, response, **kwargs):
+    def parse(self, response):
         for i in response.xpath('//li[@class="promotion-item"]'):
             price = i.xpath('.//span[@class="promotion-item__price"]//text()').getall()
             title = i.xpath('.//p[@class="promotion-item__title"]//text()').get()

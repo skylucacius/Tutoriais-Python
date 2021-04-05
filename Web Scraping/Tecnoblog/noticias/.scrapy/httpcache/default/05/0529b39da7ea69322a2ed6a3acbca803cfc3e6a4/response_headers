@@ -1,0 +1,21 @@
+Date: Mon, 05 Apr 2021 00:51:35 GMT
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: __cfduid=d827c4375983b0b6a1ba63b7dc1688f8f1617583895; expires=Wed, 05-May-21 00:51:35 GMT; path=/; domain=.tecnoblog.net; HttpOnly; SameSite=Lax; Secure
+Cf-Ray: 63aec9f52d73f87f-GIG
+Age: 922
+Last-Modified: Sun, 04 Apr 2021 20:35:46 GMT
+Link: <https://tecnoblog.net/wp-json/>; rel="https://api.w.org/"
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding
+Cf-Cache-Status: HIT
+Cf-Apo-Via: cache
+Cf-Edge-Cache: cache,platform=wordpress
+Cf-Request-Id: 09411c8d360000f87fe7b1d000000001
+Content-Security-Policy: upgrade-insecure-requests
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+X-Content-Type-Options: nosniff
+Report-To: {"group":"cf-nel","endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=gEGnpu%2FPnvP4Cv2MzCxiQWwLsbyu0nBjlCTkYzyvdXDJj11YENx0Un5vbQeScrD%2Bc8LiFJlJTiCAdH8DxqOjvP0AXa5uesHb810h%2B7dC"}],"max_age":604800}
+Nel: {"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Content-Encoding: gzip
+Alt-Svc: h3-27=":443"; ma=86400, h3-28=":443"; ma=86400, h3-29=":443"; ma=86400
