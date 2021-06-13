@@ -1,4 +1,5 @@
 {
     "python.linting.enabled": true,
-    "python.languageServer": "Jedi"
+    "python.languageServer": "Jedi",
+    "jupyter.jupyterServerType": "local"
 }
