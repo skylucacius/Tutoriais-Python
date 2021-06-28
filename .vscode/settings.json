@@ -1,5 +1,6 @@
 {
     "python.linting.enabled": true,
     "python.languageServer": "Jedi",
-    "jupyter.jupyterServerType": "local"
+    "jupyter.jupyterServerType": "local",
+    "python.pythonPath": "C:\\Users\\Familia\\miniconda3\\python.exe"
 }
