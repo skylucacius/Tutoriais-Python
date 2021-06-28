@@ -1,11 +1,21 @@
 # Tutoriais-Python
-Uma jornada de aprendizagem em Python.
+Uma jornada de aprendizagem em Python. Cada pasta contém um projeto diferente
 
-Web Scraping
-> Instale o miniconda, em https://docs.conda.io/en/latest/miniconda.html#installing ;
+## Web Scraping
+1. Instale o miniconda, em https://docs.conda.io/en/latest/miniconda.html#installing ;
 
-> Abra a pasta do projeto (tutoriais-python) pelo Visual Studio Code ;
+2. Abra a pasta do projeto (tutoriais-python) pelo Visual Studio Code ;
 
-> Instale o scrapy através do terminal: conda install -c conda-forge scrapy
+3. Instale o scrapy através do terminal: conda install -c conda-forge scrapy
 
-Cada pasta contém um projeto diferente
+## Code Wars
+> Treinamento contínuo através de mini desafios de códigos sendo possível desafiar outros alunos (guerreiros)
+
+## Mosh
+> Treinamentos realizado pelo Youtuber Mosh
+
+## toptotal
+> Treinamentos realizados no website toptotal
+
+## stack
+> Treinamentos realizado no canal de youtube Stack
