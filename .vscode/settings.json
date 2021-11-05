@@ -1,6 +1,6 @@
 {
     "python.linting.enabled": true,
-    "python.languageServer": "Jedi",
+    "python.languageServer": "Pylance",
     "jupyter.jupyterServerType": "local",
     "python.pythonPath": "ambiente\\Scripts\\python.exe",
     "python.terminal.activateEnvInCurrentTerminal": true,
