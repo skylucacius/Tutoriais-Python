@@ -2,8 +2,9 @@
     "python.linting.enabled": true,
     "python.languageServer": "Pylance",
     "jupyter.jupyterServerType": "local",
-    "python.pythonPath": "ambiente\\Scripts\\python.exe",
+    // "python.pythonPath": "ambiente\\Scripts\\python.exe",
     "python.terminal.activateEnvInCurrentTerminal": true,
     "python.terminal.activateEnvironment": true,
     "python.linting.pylintEnabled": true,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
 }
