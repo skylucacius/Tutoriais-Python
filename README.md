@@ -28,4 +28,6 @@ https://www.learnpythonwithrune.org/learn-python/
 Para esse curso, será necessária a instalação do Miniconda e um ambiente virtual python. Aqui foi usada a versão 3.9.3 do Python e a versão do miniconda correpondente.
 
 > Foram revistos alguns conceitos para reforçar o aprendizado da linguagem, tais como:
+### Dicionários
 ### Leitura de arquivo CSV
+### Recursividade

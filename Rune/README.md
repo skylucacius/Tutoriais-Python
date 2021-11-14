@@ -1,4 +1,4 @@
-Foi feito um fork do curso do Rune disponível no README superior. O endereço do fork é:
+Foi feito um fork do curso do Rune disponível no README superior. Seu endereço é:
 
 https://github.com/skylucacius/LearnPython
 
