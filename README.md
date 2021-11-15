@@ -25,7 +25,7 @@ Tutorial disponível em:
 
 https://www.learnpythonwithrune.org/learn-python/
 
-Para esse curso, será necessária a instalação do Miniconda e um ambiente virtual python. Aqui foi usada a versão 3.9.3 do Python e a versão do miniconda correpondente.
+Para esse curso, será necessária a instalação do Miniconda e um ambiente virtual python. Aqui foi usada a versão 3.9.3 do Python e a versão do miniconda correpondente. Esse reforço foi realizado para uma melhor preparação para o aprendizado de Machine Learning, realizado também pelo Rune.
 
 > Foram revistos alguns conceitos para reforçar o aprendizado da linguagem, tais como:
 ### Dicionários
