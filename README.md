@@ -31,3 +31,4 @@ Para esse curso, será necessária a instalação do Miniconda e um ambiente vir
 ### Dicionários
 ### Leitura de arquivo CSV
 ### Recursividade
+### List Comprehension e Dictionary Comprehension
