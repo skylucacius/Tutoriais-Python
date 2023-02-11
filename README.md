@@ -39,3 +39,5 @@ Bootcamp disponível pelo IGTI, que aborda:
 
 # Introdução ao Python
 # Análise de dados com Python
+## ex01
+## ex02
