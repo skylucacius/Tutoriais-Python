@@ -32,8 +32,9 @@ Para esse curso, será necessária a instalação do Miniconda e um ambiente vir
 ### Leitura de arquivo CSV
 ### Recursividade
 ### List Comprehension e Dictionary Comprehension
+### Introdução ao aprendizado de máquina
 
-## IGTI - Bootcampo de Python
+## IGTI - Bootcamp de Python
 
 Bootcamp disponível pelo IGTI, que aborda:
 
