@@ -5,3 +5,5 @@ O código poderá diferir ligeiramente da solução apresentada no tutorial pois
 Para executar os projetos, basta: 
 1. Neste diretório, dar um "pip install -r requisitos.txt";
 2. Rodar todas as células do notebook escolhido.
+
+Para a lição 16, implementamos um jogo onde devemos pegar uma caixa numa determinada posição e soltá-la numa determinada posição. Para isso, é usado um algoritmo de Q-learning.
